@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/creator-profile.clar"
 depends_on = []
 
+[contracts.tutorial]
+path = "contracts/tutorial.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
